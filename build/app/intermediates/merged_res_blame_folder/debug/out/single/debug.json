@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_pause.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_action_stop.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_stop.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_pause.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_play_arrow.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_play_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_skip_previous.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_skip_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\app\\intermediates\\res\\merged\\debug\\raw_keep.xml.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\android\\app\\src\\main\\res\\raw\\keep.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\app\\intermediates\\res\\merged\\debug\\drawable_launch_background.xml.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\android\\app\\src\\main\\res\\drawable\\launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_play_arrow.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_play_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_skip_previous.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_skip_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_skip_next.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_action_skip_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_stop.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_action_stop.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_skip_next.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_skip_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_skip_previous.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_action_skip_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_stop.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_stop.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_skip_previous.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_skip_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_pause.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\android\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_stop.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_stop.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_skip_next.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_skip_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_play_arrow.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_action_play_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_action_skip_previous.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_skip_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_action_skip_next.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_skip_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_action_pause.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_play_arrow.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_play_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_skip_next.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_skip_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_stop.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_action_stop.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_pause.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\android\\app\\src\\main\\res\\drawable-mdpi\\ic_action_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_action_play_arrow.png.flat",
+        "source": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\android\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_play_arrow.png"
+    }
+]

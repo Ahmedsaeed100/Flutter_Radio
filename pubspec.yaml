@@ -1,0 +1,30 @@
+name: audio_service_example
+description: Demonstrates how to use the audio_service plugin.
+publish_to: 'none'
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  audio_session: ^0.1.6
+  just_audio: ^0.9.11
+  dio: ^4.0.0
+  flutter_bloc: ^7.1.0
+  rxdart: ^0.27.2
+  audio_service:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/

@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\audio_service\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\audio_service_skip_previous.png",
+        "source": "C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\audio_service-0.18.0\\android\\src\\main\\res\\drawable-hdpi\\audio_service_skip_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\audio_service\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\audio_service_skip_next.png",
+        "source": "C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\audio_service-0.18.0\\android\\src\\main\\res\\drawable-hdpi\\audio_service_skip_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\audio_service\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\media_session_service_notification_ic_music_note.png",
+        "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9fa7552a101a77efacbcbf9f72b94dcc\\jetified-media2-session-1.1.3\\res\\drawable-hdpi-v4\\media_session_service_notification_ic_music_note.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\audio_service\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\media_session_service_notification_ic_play.png",
+        "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9fa7552a101a77efacbcbf9f72b94dcc\\jetified-media2-session-1.1.3\\res\\drawable-hdpi-v4\\media_session_service_notification_ic_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\audio_service\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\67ff0aaf930f65024e6c37d99bc9e852\\core-1.6.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\audio_service\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\media_session_service_notification_ic_skip_to_previous.png",
+        "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9fa7552a101a77efacbcbf9f72b94dcc\\jetified-media2-session-1.1.3\\res\\drawable-hdpi-v4\\media_session_service_notification_ic_skip_to_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\audio_service\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\audio_service_pause.png",
+        "source": "C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\audio_service-0.18.0\\android\\src\\main\\res\\drawable-hdpi\\audio_service_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\audio_service\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\media_session_service_notification_ic_skip_to_next.png",
+        "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9fa7552a101a77efacbcbf9f72b94dcc\\jetified-media2-session-1.1.3\\res\\drawable-hdpi-v4\\media_session_service_notification_ic_skip_to_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\audio_service\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\media_session_service_notification_ic_pause.png",
+        "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9fa7552a101a77efacbcbf9f72b94dcc\\jetified-media2-session-1.1.3\\res\\drawable-hdpi-v4\\media_session_service_notification_ic_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\audio_service\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\67ff0aaf930f65024e6c37d99bc9e852\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\audio_service\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\67ff0aaf930f65024e6c37d99bc9e852\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\audio_service\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\audio_service_fast_rewind.png",
+        "source": "C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\audio_service-0.18.0\\android\\src\\main\\res\\drawable-hdpi\\audio_service_fast_rewind.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\audio_service\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\67ff0aaf930f65024e6c37d99bc9e852\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\audio_service\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\audio_service_play_arrow.png",
+        "source": "C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\audio_service-0.18.0\\android\\src\\main\\res\\drawable-hdpi\\audio_service_play_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\audio_service\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\67ff0aaf930f65024e6c37d99bc9e852\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\audio_service\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\audio_service_fast_forward.png",
+        "source": "C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\audio_service-0.18.0\\android\\src\\main\\res\\drawable-hdpi\\audio_service_fast_forward.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\audio_service\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\audio_service_stop.png",
+        "source": "C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\audio_service-0.18.0\\android\\src\\main\\res\\drawable-hdpi\\audio_service_stop.png"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\just_audio\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4\\media_session_service_notification_ic_pause.png",
+        "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9fa7552a101a77efacbcbf9f72b94dcc\\jetified-media2-session-1.1.3\\res\\drawable-xxxhdpi-v4\\media_session_service_notification_ic_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\just_audio\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4\\media_session_service_notification_ic_play.png",
+        "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9fa7552a101a77efacbcbf9f72b94dcc\\jetified-media2-session-1.1.3\\res\\drawable-xxxhdpi-v4\\media_session_service_notification_ic_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\just_audio\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4\\media_session_service_notification_ic_skip_to_previous.png",
+        "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9fa7552a101a77efacbcbf9f72b94dcc\\jetified-media2-session-1.1.3\\res\\drawable-xxxhdpi-v4\\media_session_service_notification_ic_skip_to_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\just_audio\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4\\media_session_service_notification_ic_skip_to_next.png",
+        "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9fa7552a101a77efacbcbf9f72b94dcc\\jetified-media2-session-1.1.3\\res\\drawable-xxxhdpi-v4\\media_session_service_notification_ic_skip_to_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\just_audio\\intermediates\\res\\merged\\release\\drawable-xxxhdpi-v4\\media_session_service_notification_ic_music_note.png",
+        "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9fa7552a101a77efacbcbf9f72b94dcc\\jetified-media2-session-1.1.3\\res\\drawable-xxxhdpi-v4\\media_session_service_notification_ic_music_note.png"
+    }
+]

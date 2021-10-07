@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/ryanheise/audioserviceexample/BuildConfig.java
+ com.ryanheise.audioserviceexample.BuildConfig
+com/ryanheise/audioserviceexample/MainActivity.java
+ com.ryanheise.audioserviceexample.MainActivity

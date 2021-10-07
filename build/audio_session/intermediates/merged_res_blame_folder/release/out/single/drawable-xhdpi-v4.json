@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\audio_session\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\media_session_service_notification_ic_music_note.png",
+        "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9fa7552a101a77efacbcbf9f72b94dcc\\jetified-media2-session-1.1.3\\res\\drawable-xhdpi-v4\\media_session_service_notification_ic_music_note.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\audio_session\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\media_session_service_notification_ic_play.png",
+        "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9fa7552a101a77efacbcbf9f72b94dcc\\jetified-media2-session-1.1.3\\res\\drawable-xhdpi-v4\\media_session_service_notification_ic_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\audio_session\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\media_session_service_notification_ic_skip_to_previous.png",
+        "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9fa7552a101a77efacbcbf9f72b94dcc\\jetified-media2-session-1.1.3\\res\\drawable-xhdpi-v4\\media_session_service_notification_ic_skip_to_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\audio_session\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\1be83826333d1146e3386a2f4338d6b3\\core-1.3.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\audio_session\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\media_session_service_notification_ic_pause.png",
+        "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9fa7552a101a77efacbcbf9f72b94dcc\\jetified-media2-session-1.1.3\\res\\drawable-xhdpi-v4\\media_session_service_notification_ic_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\audio_session\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\1be83826333d1146e3386a2f4338d6b3\\core-1.3.0\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\audio_session\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\1be83826333d1146e3386a2f4338d6b3\\core-1.3.0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\audio_session\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\media_session_service_notification_ic_skip_to_next.png",
+        "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9fa7552a101a77efacbcbf9f72b94dcc\\jetified-media2-session-1.1.3\\res\\drawable-xhdpi-v4\\media_session_service_notification_ic_skip_to_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\audio_session\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\1be83826333d1146e3386a2f4338d6b3\\core-1.3.0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\audio_session\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\1be83826333d1146e3386a2f4338d6b3\\core-1.3.0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    }
+]

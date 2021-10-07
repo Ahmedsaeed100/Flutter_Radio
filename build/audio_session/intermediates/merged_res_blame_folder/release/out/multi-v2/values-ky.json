@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\audio_session\\intermediates\\res\\merged\\release\\values-ky\\values-ky.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9fa7552a101a77efacbcbf9f72b94dcc\\jetified-media2-session-1.1.3\\res\\values-ky\\values-ky.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,164,264,362,484",
+                        "endColumns": "108,99,97,121,127",
+                        "endOffsets": "159,259,357,479,607"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\1be83826333d1146e3386a2f4338d6b3\\core-1.3.0\\res\\values-ky\\values-ky.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "612",
+                        "endColumns": "100",
+                        "endOffsets": "708"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Ahmed\\Desktop\\test apps\\example1\\build\\audio_session\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ky\\values-ky.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\9fa7552a101a77efacbcbf9f72b94dcc\\jetified-media2-session-1.1.3\\res\\values-ky\\values-ky.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,164,264,362,484",
+                        "endColumns": "108,99,97,121,127",
+                        "endOffsets": "159,259,357,479,607"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-2\\files-2.1\\1be83826333d1146e3386a2f4338d6b3\\core-1.3.0\\res\\values-ky\\values-ky.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "612",
+                        "endColumns": "100",
+                        "endOffsets": "708"
+                    }
+                }
+            ]
+        }
+    ]
+}
